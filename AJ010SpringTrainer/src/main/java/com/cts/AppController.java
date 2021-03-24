@@ -6,7 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class AppController {
   
   public int letc(){
-  
+     
+	  return 0;
   }
 
 }
