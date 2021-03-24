@@ -7,6 +7,8 @@ public class AppController {
   
   public int letc(){
      
+	  System.out.println("hello from local");
+	  
 	  return 0;
   }
 
